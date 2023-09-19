@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Grids reliability data
+message: ' '
+type: dataset
+authors:
+  - given-names: Joaquin Rodrigo
+    family-names: de la Barra Toloza
+    email: joaquin.delabarra@aalto.fi
+    affiliation: Aalto
+    orcid: 'https://orcid.org/0000-0003-3878-8289'
+repository-code: 'https://github.com/jdelab1/reinforcement_grids_data'
+abstract: >-
+  This repository contains the grid information to replicate
+  the results presented in the paper "Identifying an optimal
+  portfolio of reinforcement actions to improve the
+  reliability of distribution grids in the face of external
+  hazards."
+keywords:
+  - Reliability
+  - Distribution Grids
