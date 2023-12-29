@@ -14,10 +14,7 @@ authors:
 repository-code: 'https://github.com/jdelab1/reinforcement_grids_data'
 abstract: >-
   This repository contains the grid information to replicate
-  the results presented in the paper "Identifying an optimal
-  portfolio of reinforcement actions to improve the
-  reliability of distribution grids in the face of external
-  hazards."
+  the results presented in the paper "Accounting for Partial Information in Evaluating Portfolios of Reinforcement Actions to Improve the Reliability of Distribution Grids"
 keywords:
   - Reliability
   - Distribution Grids
